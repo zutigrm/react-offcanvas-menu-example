@@ -1,16 +1,22 @@
 {
-  "name": "react-test-site",
+  "name": "react-offcanvas-menu-example",
   "version": "0.1.0",
+  "homepage": "https://zutigrm.github.io/react-offcanvas-menu",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-offcanvas-menu-component": "^1.0.0",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
