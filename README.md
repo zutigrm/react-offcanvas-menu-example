@@ -1,6 +1,6 @@
 ## React Offcanvas Menu Example
 
-Demo preview - https://zutigrm.github.io/react-offcanvas-menu
+Demo preview - https://zutigrm.github.io/react-offcanvas-menu-example/
 
 You can find react offcanvas menu here - https://www.npmjs.com/package/react-offcanvas-menu-component
 
