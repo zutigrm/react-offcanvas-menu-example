@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-offcanvas-menu/static/css/main.dad2341b.chunk.css",
-    "main.js": "/react-offcanvas-menu/static/js/main.205e4d9e.chunk.js",
-    "main.js.map": "/react-offcanvas-menu/static/js/main.205e4d9e.chunk.js.map",
-    "runtime~main.js": "/react-offcanvas-menu/static/js/runtime~main.1865d4fd.js",
-    "runtime~main.js.map": "/react-offcanvas-menu/static/js/runtime~main.1865d4fd.js.map",
-    "static/js/2.8eec5ffd.chunk.js": "/react-offcanvas-menu/static/js/2.8eec5ffd.chunk.js",
-    "static/js/2.8eec5ffd.chunk.js.map": "/react-offcanvas-menu/static/js/2.8eec5ffd.chunk.js.map",
-    "index.html": "/react-offcanvas-menu/index.html",
-    "precache-manifest.21eebe86038b4157d927ea9822680573.js": "/react-offcanvas-menu/precache-manifest.21eebe86038b4157d927ea9822680573.js",
-    "service-worker.js": "/react-offcanvas-menu/service-worker.js",
-    "static/css/main.dad2341b.chunk.css.map": "/react-offcanvas-menu/static/css/main.dad2341b.chunk.css.map",
-    "static/media/facebook.svg": "/react-offcanvas-menu/static/media/facebook.d49de3fe.svg",
-    "static/media/linkedin.svg": "/react-offcanvas-menu/static/media/linkedin.5c242f84.svg",
-    "static/media/logo.svg": "/react-offcanvas-menu/static/media/logo.5d5d9eef.svg",
-    "static/media/stack-overflow.svg": "/react-offcanvas-menu/static/media/stack-overflow.c339e04a.svg",
-    "static/media/twitter.svg": "/react-offcanvas-menu/static/media/twitter.3417388f.svg"
+    "main.css": "/react-offcanvas-menu-example/static/css/main.dad2341b.chunk.css",
+    "main.js": "/react-offcanvas-menu-example/static/js/main.41ca0591.chunk.js",
+    "main.js.map": "/react-offcanvas-menu-example/static/js/main.41ca0591.chunk.js.map",
+    "runtime~main.js": "/react-offcanvas-menu-example/static/js/runtime~main.65c1256c.js",
+    "runtime~main.js.map": "/react-offcanvas-menu-example/static/js/runtime~main.65c1256c.js.map",
+    "static/js/2.8eec5ffd.chunk.js": "/react-offcanvas-menu-example/static/js/2.8eec5ffd.chunk.js",
+    "static/js/2.8eec5ffd.chunk.js.map": "/react-offcanvas-menu-example/static/js/2.8eec5ffd.chunk.js.map",
+    "index.html": "/react-offcanvas-menu-example/index.html",
+    "precache-manifest.9e1d0705a2e0315198ae0da1dae54b08.js": "/react-offcanvas-menu-example/precache-manifest.9e1d0705a2e0315198ae0da1dae54b08.js",
+    "service-worker.js": "/react-offcanvas-menu-example/service-worker.js",
+    "static/css/main.dad2341b.chunk.css.map": "/react-offcanvas-menu-example/static/css/main.dad2341b.chunk.css.map",
+    "static/media/facebook.svg": "/react-offcanvas-menu-example/static/media/facebook.d49de3fe.svg",
+    "static/media/linkedin.svg": "/react-offcanvas-menu-example/static/media/linkedin.5c242f84.svg",
+    "static/media/logo.svg": "/react-offcanvas-menu-example/static/media/logo.5d5d9eef.svg",
+    "static/media/stack-overflow.svg": "/react-offcanvas-menu-example/static/media/stack-overflow.c339e04a.svg",
+    "static/media/twitter.svg": "/react-offcanvas-menu-example/static/media/twitter.3417388f.svg"
   }
 }
